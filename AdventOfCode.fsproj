@@ -6,6 +6,7 @@
   <ItemGroup>
     <Compile Include="2024/Day1/Part1.fsx" />
     <Compile Include="2024\Day1\Part2.fsx" />
+    <Compile Include="Day2/Part1.fsx" />
     <Compile Include="Program.fs" />
   </ItemGroup>
 </Project>

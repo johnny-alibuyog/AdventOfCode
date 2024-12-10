@@ -3,7 +3,7 @@
 open FSharpPlus
 open System.IO
 
-let path = $"{__SOURCE_DIRECTORY__}/Part2.txt"
+let path = $"{__SOURCE_DIRECTORY__}/Input.txt"
 
 let readFile path = path |> File.ReadAllLines |> Seq.toList
 
